@@ -1,0 +1,33 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+body{
+    font-family: "Montserrat";
+}
+.container{
+    text-align: center;
+}
+#myLabel{
+    display: block;
+    margin-bottom: 30px;
+    margin-top: 20px;
+    font-size: 6em;
+}
+button{
+    background-color: #70a1ff;
+    color: #ffffff;
+    font-size: 2em;
+    padding: 10px 15px;
+    margin-right: 10px;
+    border: 1px solid #747d8c;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+button:hover{
+    background-color: #1e90ff;
+}
+.dev{
+    text-align: center;
+    margin-top: 43px;
+    color: #2f3542;
+}
